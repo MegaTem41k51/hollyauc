@@ -1,0 +1,8 @@
+{
+  "name": "hollyauc",
+  "version": "1.0.0",
+  "description": "HollyAuc — поинтовые аукционы для стримеров (Twitch + DonationAlerts)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
